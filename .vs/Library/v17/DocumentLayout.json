@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My work\\C Sharp\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|e:\\my work\\c sharp\\library\\librarycard\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|solutionrelative:librarycard\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|E:\\My work\\C Sharp\\Library\\librarycard\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|solutionrelative:librarycard\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|E:\\My work\\C Sharp\\Library\\librarycard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|solutionrelative:librarycard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|E:\\My work\\C Sharp\\Library\\librarycard\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|solutionrelative:librarycard\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|E:\\My work\\C Sharp\\Library\\librarycard\\telephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A0115-0A17-421A-A398-309BB7BBEF73}|LibraryCard\\LibraryCard.csproj|solutionrelative:librarycard\\telephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Telephone.cs",
+              "DocumentMoniker": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Telephone.cs",
+              "RelativeDocumentMoniker": "LibraryCard\\Telephone.cs",
+              "ToolTip": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Telephone.cs",
+              "RelativeToolTip": "LibraryCard\\Telephone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:31.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Specifications.cs",
+              "DocumentMoniker": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Specifications.cs",
+              "RelativeDocumentMoniker": "LibraryCard\\Specifications.cs",
+              "ToolTip": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Specifications.cs",
+              "RelativeToolTip": "LibraryCard\\Specifications.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:32.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryCard\\Program.cs",
+              "ToolTip": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Program.cs",
+              "RelativeToolTip": "LibraryCard\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Enums.cs",
+              "RelativeDocumentMoniker": "LibraryCard\\Enums.cs",
+              "ToolTip": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Enums.cs",
+              "RelativeToolTip": "LibraryCard\\Enums.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Email.cs",
+              "DocumentMoniker": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Email.cs",
+              "RelativeDocumentMoniker": "LibraryCard\\Email.cs",
+              "ToolTip": "E:\\My work\\C Sharp\\Library\\LibraryCard\\Email.cs",
+              "RelativeToolTip": "LibraryCard\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:32.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+D:\C Sharp Exercises\Library\LibraryCard\bin\Debug\LibraryCard.exe.config
+D:\C Sharp Exercises\Library\LibraryCard\bin\Debug\LibraryCard.exe
+D:\C Sharp Exercises\Library\LibraryCard\bin\Debug\LibraryCard.pdb
+D:\C Sharp Exercises\Library\LibraryCard\obj\Debug\LibraryCard.csprojAssemblyReference.cache
+D:\C Sharp Exercises\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CoreCompileInputs.cache
+D:\C Sharp Exercises\Library\LibraryCard\obj\Debug\LibraryCard.exe
+D:\C Sharp Exercises\Library\LibraryCard\obj\Debug\LibraryCard.pdb
+D:\C Sharp Exercises\Library\LibraryCard\bin\Debug\EPPlus.dll
+D:\C Sharp Exercises\Library\LibraryCard\bin\Debug\EPPlus.xml
+D:\C Sharp Exercises\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CopyComplete
+D:\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe.config
+D:\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe
+D:\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.pdb
+D:\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.dll
+D:\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.xml
+D:\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csprojAssemblyReference.cache
+D:\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CopyComplete
+D:\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.exe
+D:\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.pdb
+F:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe.config
+F:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe
+F:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.pdb
+F:\My work\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.dll
+F:\My work\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.xml
+F:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csprojAssemblyReference.cache
+F:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CoreCompileInputs.cache
+F:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CopyComplete
+F:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.exe
+F:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.pdb
+G:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe.config
+G:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe
+G:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.pdb
+G:\My work\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.dll
+G:\My work\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.xml
+G:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.AssemblyReference.cache
+G:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.SuggestedBindingRedirects.cache
+G:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CoreCompileInputs.cache
+G:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CopyComplete
+G:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.exe
+G:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.pdb
+E:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe.config
+E:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.exe
+E:\My work\C Sharp\Library\LibraryCard\bin\Debug\LibraryCard.pdb
+E:\My work\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.dll
+E:\My work\C Sharp\Library\LibraryCard\bin\Debug\EPPlus.xml
+E:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.AssemblyReference.cache
+E:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.csproj.CoreCompileInputs.cache
+E:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryC.EA520346.Up2Date
+E:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.exe
+E:\My work\C Sharp\Library\LibraryCard\obj\Debug\LibraryCard.pdb
